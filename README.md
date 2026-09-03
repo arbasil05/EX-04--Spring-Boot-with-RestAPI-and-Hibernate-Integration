@@ -134,21 +134,25 @@ public class MovieController {
 ```
 ### OUTPUT:
 
-#### POST /movies:
-<img width="730" height="580" alt="image" src="https://github.com/user-attachments/assets/a62dab35-1d71-4e9b-9885-1b787dfdc756" />
+#### POST /movies
 
-#### GET /movies:
-<img width="664" height="602" alt="image" src="https://github.com/user-attachments/assets/acc25b2c-8160-4c11-9381-984b65599995" />
+![POST /movies](https://github.com/user-attachments/assets/a62dab35-1d71-4e9b-9885-1b787dfdc756)
 
-#### GET /movies/:id:
-<img width="644" height="569" alt="image" src="https://github.com/user-attachments/assets/17bd0f51-69d9-4c91-977c-a7c4ff484340" />
+#### GET /movies
 
-#### PUT /movies/:id:
-<img width="614" height="553" alt="image" src="https://github.com/user-attachments/assets/315b19a6-bdfe-4237-89af-ac2babbad559" />
+![GET /movies](https://github.com/user-attachments/assets/acc25b2c-8160-4c11-9381-984b65599995)
 
-#### DELETE /movies/:id:
-<img width="753" height="499" alt="image" src="https://github.com/user-attachments/assets/984b941d-4796-4b5d-be06-4bedf87ca555" />
+#### GET /movies/:id
 
+![GET /movies/:id](https://github.com/user-attachments/assets/17bd0f51-69d9-4c91-977c-a7c4ff484340)
+
+#### PUT /movies/:id
+
+![PUT /movies/:id](https://github.com/user-attachments/assets/315b19a6-bdfe-4237-89af-ac2babbad559)
+
+#### DELETE /movies/:id
+
+![DELETE /movies/:id](https://github.com/user-attachments/assets/984b941d-4796-4b5d-be06-4bedf87ca555)
 ### RESULT : 
 
 The Spring Boot application was successfully developed to store and retrieve movie data using Object Relational Mapping (ORM) with Hibernate.
